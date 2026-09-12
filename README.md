@@ -1,8 +1,8 @@
 # Why Learn Programming When AI Can Write Code?
 
-AI can now generate working code from ordinary language in seconds. For a beginner, this raises an obvious question: if a machine can increasingly perform the task of writing code, why should a designer still spend time learning programming?
+AI can now generate working code from ordinary language in seconds. This makes a traditional reason for learning programming increasingly questionable: designers may no longer need to become good at manually producing syntax simply because machines can do it faster.
 
-I do not think designers in 2026 need to learn programming for exactly the same reason they did ten years ago. The ability to write every line of code from memory may become less important. However, this does not make programming knowledge irrelevant. Instead, I think its value is shifting from writing code toward understanding computational systems well enough to read, evaluate, modify, and direct what machines produce.
+I do not think designers in 2026 need to learn programming for exactly the same reason they did ten years ago. What matters is shifting from the ability to write every line of code from scratch toward computational literacy: understanding systems well enough to read, evaluate, modify, and direct what machines produce. As AI becomes more capable, this kind of judgement may become more important rather than less.
 
 ## Reading May Matter More Than Writing
 
@@ -29,3 +29,15 @@ Without AI, learning often involves encountering a problem, searching for inform
 The second process is obviously faster, and I do not think efficiency itself is a bad thing. The danger is that a working result can create the illusion of understanding. I have experienced this while learning technical tools: AI can tell me exactly what to click, but if I only follow the instructions, I may be unable to solve a slightly different problem later.
 
 This means that learning programming alongside AI requires a different kind of discipline. The goal should not be to avoid AI, but to use its answers as material to question, test, and understand.
+
+## Why We Are Still Here
+
+For me, the reason to learn programming is therefore not to compete with AI at writing code. Machines will probably continue to become faster and better at that task.
+
+The reason is to understand enough of the medium to remain an active participant in the creative process. If I can read what a system is doing, identify when it is wrong, modify its behavior, and understand the relationship between its rules and its visual results, AI becomes an accelerator rather than a black box.
+
+Programming education may therefore need to change as AI improves. Memorizing syntax may matter less, while debugging, reading, systems thinking, and judgement matter more. We are not learning programming because machines cannot code. We are learning it so that when machines code for us, we still know what they are doing, what to reject, and how to make the result our own.
+
+## References
+
+Beattie, D. (2020). *The art of code* [Conference presentation]. NDC London.
